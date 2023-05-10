@@ -1,7 +1,7 @@
-# lambda__exercise
-Simple lambda function fetching data from MySQL database
+# lambda_exercise
+Simple lambda function in nodejs to fetch data from MySQL database
 
-## Step to use this project in AWS Lambda
+## Steps to use this project in AWS Lambda
 - clone the project
 - run `npm ci` to install the dependency
 - run `zip -r lambda_exercise.zip ./` to zip all files inside the folder
