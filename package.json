@@ -1,0 +1,22 @@
+{
+  "name": "lambda__exercise",
+  "version": "1.0.0",
+  "description": "Simple lambda function fetching data from MySQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinYu2019/lambda__exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinYu2019/lambda__exercise/issues"
+  },
+  "homepage": "https://github.com/TinYu2019/lambda__exercise#readme",
+  "dependencies": {
+    "serverless-mysql": "^1.5.5"
+  }
+}
