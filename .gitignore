@@ -1,0 +1,7 @@
+# Ignore Terraform files
+**/*.tfstate*
+**/*.tfvars
+**/.terraform/*
+
+# Ignore Node.js modules
+node_modules/
