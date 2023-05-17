@@ -14,3 +14,4 @@ Simple lambda function in nodejs to fetch data from MySQL database
   - DB_NAME
 - click on deploy and then test
 - should see the data fetched from MySQL database
+test
